@@ -1,9 +1,0 @@
-Jesella B. Fermo
-CMSC 100 UV-4L
-
-Expectations
- - Be able to create and collaborate on projects easily on github
- - implement github with other programming languages 
- - Create aesthetic html websites
- - Learn web programming 
- - Have fun in class
